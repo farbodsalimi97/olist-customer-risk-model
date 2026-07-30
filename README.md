@@ -17,11 +17,6 @@ Exploratory analysis suggests customer dissatisfaction is driven mainly by logis
 ## Business Recommendation
 Implement an **Early Warning System** to flag high-risk orders and enable proactive operational intervention (instead of broad discounting).
 
-## Repository Content
-- `notebooks/`: analysis and modeling notebook
-- `src/`: modular code (if added)
-- `images/`: plots (ROC curve, feature importance)
-- `reports/`: executive summary (optional)
 
 ## Tech Stack
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
